@@ -1,0 +1,4 @@
+recursive-include ibtwsbot *.py
+recursive-include ibtwsbot *.yaml
+global-exclude *.pyc
+global-exclude __pycache__

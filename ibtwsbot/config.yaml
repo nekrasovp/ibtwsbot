@@ -1,0 +1,16 @@
+script:
+  dry_run: True
+  loop_interval: 10
+
+  unrealizedpnlmax: -1
+  num1: 10
+  num2: 20
+
+tws:
+  ip: 127.0.0.1
+  port: 7496
+  clientid: 1
+
+db:
+  host: localhost
+  port: 3000
