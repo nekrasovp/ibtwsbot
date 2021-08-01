@@ -2,7 +2,6 @@
 *outputs\
 settings.py
 *.dot
-*.png
 _private
 *.pyc
 *.xml

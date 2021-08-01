@@ -45,8 +45,10 @@ Iterate on each timeframe:
           +-------+        +--------------------+
 ```
 
+### Live example
+![Example](./Screenshot_2.png)
+
 ## Tests
 
 You can run tests by running `python -m unittest discover test`. 
 Code coverage is enabled by default.
-
